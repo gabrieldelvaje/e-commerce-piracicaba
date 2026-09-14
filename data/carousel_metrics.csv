@@ -1,0 +1,29 @@
+slide,metric,group,value,unit,period
+2,share_new_stores,Centro,26.6478176356,percent,2000-2009
+2,share_new_stores,Centro,16.1386730424,percent,2010-2019
+2,share_new_stores,Centro,9.0666191664,percent,2020-2026
+2,share_new_stores,Centro,7.7575757576,percent,2025
+3,median_age,Centro,15.1734806327,years,2026-08-08
+3,median_age,Outros bairros,7.4471070590,years,2026-08-08
+3,stores_15_years_or_more,Centro,50.6412605350,percent,2026-08-08
+3,stores_15_years_or_more,Outros bairros,27.1775573041,percent,2026-08-08
+3,opened_last_5_years,Centro,20.1172590693,percent,2026-08-08
+3,opened_last_5_years,Outros bairros,36.1888470749,percent,2026-08-08
+4,opening_rate,Centro,4.7076130930,percent,2025
+4,opening_rate,Outros bairros,11.0058572565,percent,2025
+4,closure_rate,Centro,5.3328429570,percent,2025
+4,closure_rate,Outros bairros,8.3303203413,percent,2025
+4,net_change,Centro,-17,count,2025
+4,net_change,Outros bairros,370,count,2025
+5,high_ecommerce_stock_growth,Centro,4.3121149897,percent,2019-2026
+5,high_ecommerce_stock_growth,Outros bairros,46.2740656852,percent,2019-2026
+5,high_ecommerce_net_change,Centro,-21,count,2025
+5,high_ecommerce_net_change,Outros bairros,172,count,2025
+6,segment_center_share_2010,Joalheria e relojoaria,62.2950819672,percent,2010
+6,segment_center_share_2026,Joalheria e relojoaria,25.7028112450,percent,2026
+6,segment_center_share_2010,Eletroeletrônicos,42.7860696517,percent,2010
+6,segment_center_share_2026,Eletroeletrônicos,22.0297029703,percent,2026
+6,segment_center_share_2010,Moda,35.6538711776,percent,2010
+6,segment_center_share_2026,Moda,18.8711036226,percent,2026
+6,segment_center_share_2010,Casa e decoração,35.1885098743,percent,2010
+6,segment_center_share_2026,Casa e decoração,16.6527893422,percent,2026
