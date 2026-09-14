@@ -2,7 +2,7 @@ from pathlib import Path
 import unicodedata
 import pandas as pd
 
-DATA = Path(__file__).resolve().parents[1] / "data" / "varejo_piracicaba_analise_ecommerce.csv.gz"
+DATA = Path(__file__).resolve().parents[1] / "data" / "varejo_piracicaba_analise_ecommerce.csv"
 DATA_REFERENCIA = pd.Timestamp("2026-08-08")
 
 
